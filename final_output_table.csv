@@ -1,0 +1,386 @@
+unique_id,state,Sector,No_of_Colleges,No_of_Companies,No_of_Colleges_Total,No_of_Companies_Total,College_Percentage,Company_Percentage
+ID-00001,a&n islands,Agricultural Industry,0.0,0.0,4.0,0.0,0.0,
+ID-00002,a&n islands,Chemical & Industrial Industry,1.0,0.0,4.0,0.0,25.0,
+ID-00003,a&n islands,Civil & Infrastructure Industry,0.0,0.0,4.0,0.0,0.0,
+ID-00004,a&n islands,Commercial & Supply Chain Industry,0.0,0.0,4.0,0.0,0.0,
+ID-00005,a&n islands,"Community, Personal & Social Services",1.0,0.0,4.0,0.0,25.0,
+ID-00006,a&n islands,Engineering Industry,1.0,0.0,4.0,0.0,25.0,
+ID-00007,a&n islands,General Services Sector,0.0,0.0,4.0,0.0,0.0,
+ID-00008,a&n islands,Hotel Management,1.0,0.0,4.0,0.0,25.0,
+ID-00009,a&n islands,Medical & Pharmaceutical Industry,0.0,0.0,4.0,0.0,0.0,
+ID-00010,a&n islands,Sports & Health Industry,0.0,0.0,4.0,0.0,0.0,
+ID-00011,a&n islands,Tourism & Hospitality Industry,0.0,0.0,4.0,0.0,0.0,
+ID-00012,andhra pradesh,Agricultural Industry,40.0,33.0,579.0,226.0,6.91,14.6
+ID-00013,andhra pradesh,Chemical & Industrial Industry,6.0,13.0,579.0,226.0,1.04,5.75
+ID-00014,andhra pradesh,Civil & Infrastructure Industry,7.0,26.0,579.0,226.0,1.21,11.5
+ID-00015,andhra pradesh,Commercial & Supply Chain Industry,3.0,30.0,579.0,226.0,0.52,13.27
+ID-00016,andhra pradesh,"Community, Personal & Social Services",133.0,19.0,579.0,226.0,22.97,8.41
+ID-00017,andhra pradesh,Engineering Industry,278.0,73.0,579.0,226.0,48.01,32.3
+ID-00018,andhra pradesh,General Services Sector,8.0,4.0,579.0,226.0,1.38,1.77
+ID-00019,andhra pradesh,Hotel Management,15.0,3.0,579.0,226.0,2.59,1.33
+ID-00020,andhra pradesh,Medical & Pharmaceutical Industry,73.0,8.0,579.0,226.0,12.61,3.54
+ID-00021,andhra pradesh,Sports & Health Industry,9.0,17.0,579.0,226.0,1.55,7.52
+ID-00022,andhra pradesh,Tourism & Hospitality Industry,7.0,0.0,579.0,226.0,1.21,0.0
+ID-00023,arunachal pradesh,Agricultural Industry,1.0,0.0,11.0,5.0,9.09,0.0
+ID-00024,arunachal pradesh,Chemical & Industrial Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00025,arunachal pradesh,Civil & Infrastructure Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00026,arunachal pradesh,Commercial & Supply Chain Industry,0.0,3.0,11.0,5.0,0.0,60.0
+ID-00027,arunachal pradesh,"Community, Personal & Social Services",8.0,2.0,11.0,5.0,72.73,40.0
+ID-00028,arunachal pradesh,Engineering Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00029,arunachal pradesh,General Services Sector,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00030,arunachal pradesh,Hotel Management,2.0,0.0,11.0,5.0,18.18,0.0
+ID-00031,arunachal pradesh,Medical & Pharmaceutical Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00032,arunachal pradesh,Sports & Health Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00033,arunachal pradesh,Tourism & Hospitality Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00034,assam,Agricultural Industry,6.0,18.0,154.0,91.0,3.9,19.78
+ID-00035,assam,Chemical & Industrial Industry,7.0,5.0,154.0,91.0,4.55,5.49
+ID-00036,assam,Civil & Infrastructure Industry,2.0,7.0,154.0,91.0,1.3,7.69
+ID-00037,assam,Commercial & Supply Chain Industry,11.0,12.0,154.0,91.0,7.14,13.19
+ID-00038,assam,"Community, Personal & Social Services",84.0,22.0,154.0,91.0,54.55,24.18
+ID-00039,assam,Engineering Industry,11.0,21.0,154.0,91.0,7.14,23.08
+ID-00040,assam,General Services Sector,3.0,0.0,154.0,91.0,1.95,0.0
+ID-00041,assam,Hotel Management,18.0,1.0,154.0,91.0,11.69,1.1
+ID-00042,assam,Medical & Pharmaceutical Industry,12.0,1.0,154.0,91.0,7.79,1.1
+ID-00043,assam,Sports & Health Industry,0.0,4.0,154.0,91.0,0.0,4.4
+ID-00044,assam,Tourism & Hospitality Industry,0.0,0.0,154.0,91.0,0.0,0.0
+ID-00045,bihar,Agricultural Industry,7.0,30.0,407.0,380.0,1.72,7.89
+ID-00046,bihar,Chemical & Industrial Industry,0.0,28.0,407.0,380.0,0.0,7.37
+ID-00047,bihar,Civil & Infrastructure Industry,0.0,68.0,407.0,380.0,0.0,17.89
+ID-00048,bihar,Commercial & Supply Chain Industry,1.0,46.0,407.0,380.0,0.25,12.11
+ID-00049,bihar,"Community, Personal & Social Services",298.0,94.0,407.0,380.0,73.22,24.74
+ID-00050,bihar,Engineering Industry,61.0,51.0,407.0,380.0,14.99,13.42
+ID-00051,bihar,General Services Sector,4.0,12.0,407.0,380.0,0.98,3.16
+ID-00052,bihar,Hotel Management,17.0,16.0,407.0,380.0,4.18,4.21
+ID-00053,bihar,Medical & Pharmaceutical Industry,19.0,10.0,407.0,380.0,4.67,2.63
+ID-00054,bihar,Sports & Health Industry,0.0,25.0,407.0,380.0,0.0,6.58
+ID-00055,bihar,Tourism & Hospitality Industry,0.0,0.0,407.0,380.0,0.0,0.0
+ID-00056,chandigarh,Agricultural Industry,1.0,0.0,13.0,45.0,7.69,0.0
+ID-00057,chandigarh,Chemical & Industrial Industry,0.0,3.0,13.0,45.0,0.0,6.67
+ID-00058,chandigarh,Civil & Infrastructure Industry,1.0,0.0,13.0,45.0,7.69,0.0
+ID-00059,chandigarh,Commercial & Supply Chain Industry,1.0,6.0,13.0,45.0,7.69,13.33
+ID-00060,chandigarh,"Community, Personal & Social Services",6.0,11.0,13.0,45.0,46.15,24.44
+ID-00061,chandigarh,Engineering Industry,2.0,20.0,13.0,45.0,15.38,44.44
+ID-00062,chandigarh,General Services Sector,0.0,2.0,13.0,45.0,0.0,4.44
+ID-00063,chandigarh,Hotel Management,0.0,1.0,13.0,45.0,0.0,2.22
+ID-00064,chandigarh,Medical & Pharmaceutical Industry,0.0,2.0,13.0,45.0,0.0,4.44
+ID-00065,chandigarh,Sports & Health Industry,2.0,0.0,13.0,45.0,15.38,0.0
+ID-00066,chandigarh,Tourism & Hospitality Industry,0.0,0.0,13.0,45.0,0.0,0.0
+ID-00067,chhattisgarh,Agricultural Industry,34.0,0.0,229.0,0.0,14.85,
+ID-00068,chhattisgarh,Chemical & Industrial Industry,7.0,0.0,229.0,0.0,3.06,
+ID-00069,chhattisgarh,Civil & Infrastructure Industry,1.0,0.0,229.0,0.0,0.44,
+ID-00070,chhattisgarh,Commercial & Supply Chain Industry,2.0,0.0,229.0,0.0,0.87,
+ID-00071,chhattisgarh,"Community, Personal & Social Services",76.0,0.0,229.0,0.0,33.19,
+ID-00072,chhattisgarh,Engineering Industry,70.0,0.0,229.0,0.0,30.57,
+ID-00073,chhattisgarh,General Services Sector,1.0,0.0,229.0,0.0,0.44,
+ID-00074,chhattisgarh,Hotel Management,10.0,0.0,229.0,0.0,4.37,
+ID-00075,chhattisgarh,Medical & Pharmaceutical Industry,25.0,0.0,229.0,0.0,10.92,
+ID-00076,chhattisgarh,Sports & Health Industry,3.0,0.0,229.0,0.0,1.31,
+ID-00077,chhattisgarh,Tourism & Hospitality Industry,0.0,0.0,229.0,0.0,0.0,
+ID-00078,delhi,Agricultural Industry,0.0,22.0,42.0,1103.0,0.0,1.99
+ID-00079,delhi,Chemical & Industrial Industry,0.0,86.0,42.0,1103.0,0.0,7.8
+ID-00080,delhi,Civil & Infrastructure Industry,2.0,54.0,42.0,1103.0,4.76,4.9
+ID-00081,delhi,Commercial & Supply Chain Industry,1.0,187.0,42.0,1103.0,2.38,16.95
+ID-00082,delhi,"Community, Personal & Social Services",15.0,181.0,42.0,1103.0,35.71,16.41
+ID-00083,delhi,Engineering Industry,15.0,394.0,42.0,1103.0,35.71,35.72
+ID-00084,delhi,General Services Sector,4.0,36.0,42.0,1103.0,9.52,3.26
+ID-00085,delhi,Hotel Management,1.0,27.0,42.0,1103.0,2.38,2.45
+ID-00086,delhi,Medical & Pharmaceutical Industry,1.0,75.0,42.0,1103.0,2.38,6.8
+ID-00087,delhi,Sports & Health Industry,2.0,41.0,42.0,1103.0,4.76,3.72
+ID-00088,delhi,Tourism & Hospitality Industry,1.0,0.0,42.0,1103.0,2.38,0.0
+ID-00089,goa,Agricultural Industry,2.0,0.0,26.0,26.0,7.69,0.0
+ID-00090,goa,Chemical & Industrial Industry,0.0,2.0,26.0,26.0,0.0,7.69
+ID-00091,goa,Civil & Infrastructure Industry,1.0,3.0,26.0,26.0,3.85,11.54
+ID-00092,goa,Commercial & Supply Chain Industry,1.0,9.0,26.0,26.0,3.85,34.62
+ID-00093,goa,"Community, Personal & Social Services",7.0,4.0,26.0,26.0,26.92,15.38
+ID-00094,goa,Engineering Industry,6.0,8.0,26.0,26.0,23.08,30.77
+ID-00095,goa,General Services Sector,3.0,0.0,26.0,26.0,11.54,0.0
+ID-00096,goa,Hotel Management,2.0,0.0,26.0,26.0,7.69,0.0
+ID-00097,goa,Medical & Pharmaceutical Industry,1.0,0.0,26.0,26.0,3.85,0.0
+ID-00098,goa,Sports & Health Industry,0.0,0.0,26.0,26.0,0.0,0.0
+ID-00099,goa,Tourism & Hospitality Industry,3.0,0.0,26.0,26.0,11.54,0.0
+ID-00100,gujarat,Agricultural Industry,43.0,27.0,1035.0,545.0,4.15,4.95
+ID-00101,gujarat,Chemical & Industrial Industry,108.0,87.0,1035.0,545.0,10.43,15.96
+ID-00102,gujarat,Civil & Infrastructure Industry,28.0,27.0,1035.0,545.0,2.71,4.95
+ID-00103,gujarat,Commercial & Supply Chain Industry,86.0,67.0,1035.0,545.0,8.31,12.29
+ID-00104,gujarat,"Community, Personal & Social Services",364.0,85.0,1035.0,545.0,35.17,15.6
+ID-00105,gujarat,Engineering Industry,239.0,154.0,1035.0,545.0,23.09,28.26
+ID-00106,gujarat,General Services Sector,51.0,14.0,1035.0,545.0,4.93,2.57
+ID-00107,gujarat,Hotel Management,59.0,29.0,1035.0,545.0,5.7,5.32
+ID-00108,gujarat,Medical & Pharmaceutical Industry,46.0,41.0,1035.0,545.0,4.44,7.52
+ID-00109,gujarat,Sports & Health Industry,5.0,14.0,1035.0,545.0,0.48,2.57
+ID-00110,gujarat,Tourism & Hospitality Industry,6.0,0.0,1035.0,545.0,0.58,0.0
+ID-00111,haryana,Agricultural Industry,20.0,26.0,466.0,568.0,4.29,4.58
+ID-00112,haryana,Chemical & Industrial Industry,2.0,49.0,466.0,568.0,0.43,8.63
+ID-00113,haryana,Civil & Infrastructure Industry,5.0,26.0,466.0,568.0,1.07,4.58
+ID-00114,haryana,Commercial & Supply Chain Industry,0.0,99.0,466.0,568.0,0.0,17.43
+ID-00115,haryana,"Community, Personal & Social Services",295.0,77.0,466.0,568.0,63.3,13.56
+ID-00116,haryana,Engineering Industry,83.0,200.0,466.0,568.0,17.81,35.21
+ID-00117,haryana,General Services Sector,6.0,26.0,466.0,568.0,1.29,4.58
+ID-00118,haryana,Hotel Management,18.0,11.0,466.0,568.0,3.86,1.94
+ID-00119,haryana,Medical & Pharmaceutical Industry,35.0,28.0,466.0,568.0,7.51,4.93
+ID-00120,haryana,Sports & Health Industry,0.0,25.0,466.0,568.0,0.0,4.4
+ID-00121,haryana,Tourism & Hospitality Industry,2.0,1.0,466.0,568.0,0.43,0.18
+ID-00122,himachal pradesh,Agricultural Industry,2.0,4.0,110.0,52.0,1.82,7.69
+ID-00123,himachal pradesh,Chemical & Industrial Industry,1.0,4.0,110.0,52.0,0.91,7.69
+ID-00124,himachal pradesh,Civil & Infrastructure Industry,1.0,6.0,110.0,52.0,0.91,11.54
+ID-00125,himachal pradesh,Commercial & Supply Chain Industry,0.0,5.0,110.0,52.0,0.0,9.62
+ID-00126,himachal pradesh,"Community, Personal & Social Services",62.0,14.0,110.0,52.0,56.36,26.92
+ID-00127,himachal pradesh,Engineering Industry,15.0,15.0,110.0,52.0,13.64,28.85
+ID-00128,himachal pradesh,General Services Sector,1.0,1.0,110.0,52.0,0.91,1.92
+ID-00129,himachal pradesh,Hotel Management,6.0,1.0,110.0,52.0,5.45,1.92
+ID-00130,himachal pradesh,Medical & Pharmaceutical Industry,16.0,1.0,110.0,52.0,14.55,1.92
+ID-00131,himachal pradesh,Sports & Health Industry,1.0,1.0,110.0,52.0,0.91,1.92
+ID-00132,himachal pradesh,Tourism & Hospitality Industry,5.0,0.0,110.0,52.0,4.55,0.0
+ID-00133,jammu and kashmir,Agricultural Industry,6.0,0.0,104.0,0.0,5.77,
+ID-00134,jammu and kashmir,Chemical & Industrial Industry,0.0,0.0,104.0,0.0,0.0,
+ID-00135,jammu and kashmir,Civil & Infrastructure Industry,2.0,0.0,104.0,0.0,1.92,
+ID-00136,jammu and kashmir,Commercial & Supply Chain Industry,1.0,0.0,104.0,0.0,0.96,
+ID-00137,jammu and kashmir,"Community, Personal & Social Services",73.0,0.0,104.0,0.0,70.19,
+ID-00138,jammu and kashmir,Engineering Industry,11.0,0.0,104.0,0.0,10.58,
+ID-00139,jammu and kashmir,General Services Sector,1.0,0.0,104.0,0.0,0.96,
+ID-00140,jammu and kashmir,Hotel Management,7.0,0.0,104.0,0.0,6.73,
+ID-00141,jammu and kashmir,Medical & Pharmaceutical Industry,1.0,0.0,104.0,0.0,0.96,
+ID-00142,jammu and kashmir,Sports & Health Industry,2.0,0.0,104.0,0.0,1.92,
+ID-00143,jammu and kashmir,Tourism & Hospitality Industry,0.0,0.0,104.0,0.0,0.0,
+ID-00144,jharkhand,Agricultural Industry,4.0,15.0,138.0,125.0,2.9,12.0
+ID-00145,jharkhand,Chemical & Industrial Industry,0.0,12.0,138.0,125.0,0.0,9.6
+ID-00146,jharkhand,Civil & Infrastructure Industry,2.0,14.0,138.0,125.0,1.45,11.2
+ID-00147,jharkhand,Commercial & Supply Chain Industry,1.0,17.0,138.0,125.0,0.72,13.6
+ID-00148,jharkhand,"Community, Personal & Social Services",91.0,22.0,138.0,125.0,65.94,17.6
+ID-00149,jharkhand,Engineering Industry,31.0,24.0,138.0,125.0,22.46,19.2
+ID-00150,jharkhand,General Services Sector,1.0,3.0,138.0,125.0,0.72,2.4
+ID-00151,jharkhand,Hotel Management,6.0,6.0,138.0,125.0,4.35,4.8
+ID-00152,jharkhand,Medical & Pharmaceutical Industry,1.0,5.0,138.0,125.0,0.72,4.0
+ID-00153,jharkhand,Sports & Health Industry,0.0,7.0,138.0,125.0,0.0,5.6
+ID-00154,jharkhand,Tourism & Hospitality Industry,1.0,0.0,138.0,125.0,0.72,0.0
+ID-00155,karnataka,Agricultural Industry,28.0,44.0,958.0,935.0,2.92,4.71
+ID-00156,karnataka,Chemical & Industrial Industry,20.0,52.0,958.0,935.0,2.09,5.56
+ID-00157,karnataka,Civil & Infrastructure Industry,31.0,47.0,958.0,935.0,3.24,5.03
+ID-00158,karnataka,Commercial & Supply Chain Industry,119.0,104.0,958.0,935.0,12.42,11.12
+ID-00159,karnataka,"Community, Personal & Social Services",327.0,111.0,958.0,935.0,34.13,11.87
+ID-00160,karnataka,Engineering Industry,206.0,438.0,958.0,935.0,21.5,46.84
+ID-00161,karnataka,General Services Sector,52.0,29.0,958.0,935.0,5.43,3.1
+ID-00162,karnataka,Hotel Management,77.0,24.0,958.0,935.0,8.04,2.57
+ID-00163,karnataka,Medical & Pharmaceutical Industry,76.0,44.0,958.0,935.0,7.93,4.71
+ID-00164,karnataka,Sports & Health Industry,13.0,39.0,958.0,935.0,1.36,4.17
+ID-00165,karnataka,Tourism & Hospitality Industry,9.0,3.0,958.0,935.0,0.94,0.32
+ID-00166,kerala,Agricultural Industry,9.0,18.0,441.0,397.0,2.04,4.53
+ID-00167,kerala,Chemical & Industrial Industry,5.0,12.0,441.0,397.0,1.13,3.02
+ID-00168,kerala,Civil & Infrastructure Industry,27.0,36.0,441.0,397.0,6.12,9.07
+ID-00169,kerala,Commercial & Supply Chain Industry,2.0,62.0,441.0,397.0,0.45,15.62
+ID-00170,kerala,"Community, Personal & Social Services",188.0,63.0,441.0,397.0,42.63,15.87
+ID-00171,kerala,Engineering Industry,141.0,115.0,441.0,397.0,31.97,28.97
+ID-00172,kerala,General Services Sector,11.0,11.0,441.0,397.0,2.49,2.77
+ID-00173,kerala,Hotel Management,14.0,27.0,441.0,397.0,3.17,6.8
+ID-00174,kerala,Medical & Pharmaceutical Industry,40.0,21.0,441.0,397.0,9.07,5.29
+ID-00175,kerala,Sports & Health Industry,1.0,31.0,441.0,397.0,0.23,7.81
+ID-00176,kerala,Tourism & Hospitality Industry,3.0,1.0,441.0,397.0,0.68,0.25
+ID-00177,ladakh,Agricultural Industry,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00178,ladakh,Chemical & Industrial Industry,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00179,ladakh,Civil & Infrastructure Industry,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00180,ladakh,Commercial & Supply Chain Industry,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00181,ladakh,"Community, Personal & Social Services",1.0,0.0,1.0,1.0,100.0,0.0
+ID-00182,ladakh,Engineering Industry,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00183,ladakh,General Services Sector,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00184,ladakh,Hotel Management,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00185,ladakh,Medical & Pharmaceutical Industry,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00186,ladakh,Sports & Health Industry,0.0,1.0,1.0,1.0,0.0,100.0
+ID-00187,ladakh,Tourism & Hospitality Industry,0.0,0.0,1.0,1.0,0.0,0.0
+ID-00188,madhya pradesh,Agricultural Industry,22.0,50.0,725.0,314.0,3.03,15.92
+ID-00189,madhya pradesh,Chemical & Industrial Industry,15.0,23.0,725.0,314.0,2.07,7.32
+ID-00190,madhya pradesh,Civil & Infrastructure Industry,4.0,24.0,725.0,314.0,0.55,7.64
+ID-00191,madhya pradesh,Commercial & Supply Chain Industry,6.0,39.0,725.0,314.0,0.83,12.42
+ID-00192,madhya pradesh,"Community, Personal & Social Services",347.0,44.0,725.0,314.0,47.86,14.01
+ID-00193,madhya pradesh,Engineering Industry,175.0,81.0,725.0,314.0,24.14,25.8
+ID-00194,madhya pradesh,General Services Sector,10.0,9.0,725.0,314.0,1.38,2.87
+ID-00195,madhya pradesh,Hotel Management,52.0,15.0,725.0,314.0,7.17,4.78
+ID-00196,madhya pradesh,Medical & Pharmaceutical Industry,91.0,13.0,725.0,314.0,12.55,4.14
+ID-00197,madhya pradesh,Sports & Health Industry,2.0,16.0,725.0,314.0,0.28,5.1
+ID-00198,madhya pradesh,Tourism & Hospitality Industry,1.0,0.0,725.0,314.0,0.14,0.0
+ID-00199,maharashtra,Agricultural Industry,117.0,261.0,1439.0,2051.0,8.13,12.73
+ID-00200,maharashtra,Chemical & Industrial Industry,53.0,179.0,1439.0,2051.0,3.68,8.73
+ID-00201,maharashtra,Civil & Infrastructure Industry,85.0,108.0,1439.0,2051.0,5.91,5.27
+ID-00202,maharashtra,Commercial & Supply Chain Industry,69.0,235.0,1439.0,2051.0,4.79,11.46
+ID-00203,maharashtra,"Community, Personal & Social Services",363.0,284.0,1439.0,2051.0,25.23,13.85
+ID-00204,maharashtra,Engineering Industry,398.0,554.0,1439.0,2051.0,27.66,27.01
+ID-00205,maharashtra,General Services Sector,53.0,48.0,1439.0,2051.0,3.68,2.34
+ID-00206,maharashtra,Hotel Management,96.0,137.0,1439.0,2051.0,6.67,6.68
+ID-00207,maharashtra,Medical & Pharmaceutical Industry,164.0,161.0,1439.0,2051.0,11.4,7.85
+ID-00208,maharashtra,Sports & Health Industry,19.0,80.0,1439.0,2051.0,1.32,3.9
+ID-00209,maharashtra,Tourism & Hospitality Industry,22.0,4.0,1439.0,2051.0,1.53,0.2
+ID-00210,manipur,Agricultural Industry,4.0,0.0,23.0,18.0,17.39,0.0
+ID-00211,manipur,Chemical & Industrial Industry,1.0,0.0,23.0,18.0,4.35,0.0
+ID-00212,manipur,Civil & Infrastructure Industry,0.0,4.0,23.0,18.0,0.0,22.22
+ID-00213,manipur,Commercial & Supply Chain Industry,0.0,3.0,23.0,18.0,0.0,16.67
+ID-00214,manipur,"Community, Personal & Social Services",10.0,2.0,23.0,18.0,43.48,11.11
+ID-00215,manipur,Engineering Industry,7.0,4.0,23.0,18.0,30.43,22.22
+ID-00216,manipur,General Services Sector,0.0,1.0,23.0,18.0,0.0,5.56
+ID-00217,manipur,Hotel Management,1.0,2.0,23.0,18.0,4.35,11.11
+ID-00218,manipur,Medical & Pharmaceutical Industry,0.0,1.0,23.0,18.0,0.0,5.56
+ID-00219,manipur,Sports & Health Industry,0.0,1.0,23.0,18.0,0.0,5.56
+ID-00220,manipur,Tourism & Hospitality Industry,0.0,0.0,23.0,18.0,0.0,0.0
+ID-00221,meghalaya,Agricultural Industry,1.0,0.0,20.0,3.0,5.0,0.0
+ID-00222,meghalaya,Chemical & Industrial Industry,1.0,0.0,20.0,3.0,5.0,0.0
+ID-00223,meghalaya,Civil & Infrastructure Industry,0.0,1.0,20.0,3.0,0.0,33.33
+ID-00224,meghalaya,Commercial & Supply Chain Industry,1.0,0.0,20.0,3.0,5.0,0.0
+ID-00225,meghalaya,"Community, Personal & Social Services",13.0,0.0,20.0,3.0,65.0,0.0
+ID-00226,meghalaya,Engineering Industry,1.0,2.0,20.0,3.0,5.0,66.67
+ID-00227,meghalaya,General Services Sector,1.0,0.0,20.0,3.0,5.0,0.0
+ID-00228,meghalaya,Hotel Management,2.0,0.0,20.0,3.0,10.0,0.0
+ID-00229,meghalaya,Medical & Pharmaceutical Industry,0.0,0.0,20.0,3.0,0.0,0.0
+ID-00230,meghalaya,Sports & Health Industry,0.0,0.0,20.0,3.0,0.0,0.0
+ID-00231,meghalaya,Tourism & Hospitality Industry,0.0,0.0,20.0,3.0,0.0,0.0
+ID-00232,mizoram,Agricultural Industry,2.0,2.0,5.0,2.0,40.0,100.0
+ID-00233,mizoram,Chemical & Industrial Industry,0.0,0.0,5.0,2.0,0.0,0.0
+ID-00234,mizoram,Civil & Infrastructure Industry,0.0,0.0,5.0,2.0,0.0,0.0
+ID-00235,mizoram,Commercial & Supply Chain Industry,0.0,0.0,5.0,2.0,0.0,0.0
+ID-00236,mizoram,"Community, Personal & Social Services",1.0,0.0,5.0,2.0,20.0,0.0
+ID-00237,mizoram,Engineering Industry,1.0,0.0,5.0,2.0,20.0,0.0
+ID-00238,mizoram,General Services Sector,0.0,0.0,5.0,2.0,0.0,0.0
+ID-00239,mizoram,Hotel Management,1.0,0.0,5.0,2.0,20.0,0.0
+ID-00240,mizoram,Medical & Pharmaceutical Industry,0.0,0.0,5.0,2.0,0.0,0.0
+ID-00241,mizoram,Sports & Health Industry,0.0,0.0,5.0,2.0,0.0,0.0
+ID-00242,mizoram,Tourism & Hospitality Industry,0.0,0.0,5.0,2.0,0.0,0.0
+ID-00243,nagaland,Agricultural Industry,0.0,2.0,11.0,5.0,0.0,40.0
+ID-00244,nagaland,Chemical & Industrial Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00245,nagaland,Civil & Infrastructure Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00246,nagaland,Commercial & Supply Chain Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00247,nagaland,"Community, Personal & Social Services",8.0,1.0,11.0,5.0,72.73,20.0
+ID-00248,nagaland,Engineering Industry,0.0,2.0,11.0,5.0,0.0,40.0
+ID-00249,nagaland,General Services Sector,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00250,nagaland,Hotel Management,3.0,0.0,11.0,5.0,27.27,0.0
+ID-00251,nagaland,Medical & Pharmaceutical Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00252,nagaland,Sports & Health Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00253,nagaland,Tourism & Hospitality Industry,0.0,0.0,11.0,5.0,0.0,0.0
+ID-00254,odisha,Agricultural Industry,0.0,0.0,373.0,0.0,0.0,
+ID-00255,odisha,Chemical & Industrial Industry,26.0,0.0,373.0,0.0,6.97,
+ID-00256,odisha,Civil & Infrastructure Industry,4.0,0.0,373.0,0.0,1.07,
+ID-00257,odisha,Commercial & Supply Chain Industry,2.0,0.0,373.0,0.0,0.54,
+ID-00258,odisha,"Community, Personal & Social Services",172.0,0.0,373.0,0.0,46.11,
+ID-00259,odisha,Engineering Industry,86.0,0.0,373.0,0.0,23.06,
+ID-00260,odisha,General Services Sector,17.0,0.0,373.0,0.0,4.56,
+ID-00261,odisha,Hotel Management,19.0,0.0,373.0,0.0,5.09,
+ID-00262,odisha,Medical & Pharmaceutical Industry,19.0,0.0,373.0,0.0,5.09,
+ID-00263,odisha,Sports & Health Industry,6.0,0.0,373.0,0.0,1.61,
+ID-00264,odisha,Tourism & Hospitality Industry,22.0,0.0,373.0,0.0,5.9,
+ID-00265,puducherry,Agricultural Industry,2.0,0.0,36.0,0.0,5.56,
+ID-00266,puducherry,Chemical & Industrial Industry,0.0,0.0,36.0,0.0,0.0,
+ID-00267,puducherry,Civil & Infrastructure Industry,1.0,0.0,36.0,0.0,2.78,
+ID-00268,puducherry,Commercial & Supply Chain Industry,0.0,0.0,36.0,0.0,0.0,
+ID-00269,puducherry,"Community, Personal & Social Services",16.0,0.0,36.0,0.0,44.44,
+ID-00270,puducherry,Engineering Industry,14.0,0.0,36.0,0.0,38.89,
+ID-00271,puducherry,General Services Sector,1.0,0.0,36.0,0.0,2.78,
+ID-00272,puducherry,Hotel Management,1.0,0.0,36.0,0.0,2.78,
+ID-00273,puducherry,Medical & Pharmaceutical Industry,1.0,0.0,36.0,0.0,2.78,
+ID-00274,puducherry,Sports & Health Industry,0.0,0.0,36.0,0.0,0.0,
+ID-00275,puducherry,Tourism & Hospitality Industry,0.0,0.0,36.0,0.0,0.0,
+ID-00276,punjab,Agricultural Industry,1.0,9.0,363.0,161.0,0.28,5.59
+ID-00277,punjab,Chemical & Industrial Industry,3.0,17.0,363.0,161.0,0.83,10.56
+ID-00278,punjab,Civil & Infrastructure Industry,6.0,6.0,363.0,161.0,1.65,3.73
+ID-00279,punjab,Commercial & Supply Chain Industry,6.0,23.0,363.0,161.0,1.65,14.29
+ID-00280,punjab,"Community, Personal & Social Services",190.0,28.0,363.0,161.0,52.34,17.39
+ID-00281,punjab,Engineering Industry,83.0,46.0,363.0,161.0,22.87,28.57
+ID-00282,punjab,General Services Sector,12.0,7.0,363.0,161.0,3.31,4.35
+ID-00283,punjab,Hotel Management,19.0,6.0,363.0,161.0,5.23,3.73
+ID-00284,punjab,Medical & Pharmaceutical Industry,31.0,11.0,363.0,161.0,8.54,6.83
+ID-00285,punjab,Sports & Health Industry,7.0,8.0,363.0,161.0,1.93,4.97
+ID-00286,punjab,Tourism & Hospitality Industry,5.0,0.0,363.0,161.0,1.38,0.0
+ID-00287,rajasthan,Agricultural Industry,35.0,34.0,977.0,369.0,3.58,9.21
+ID-00288,rajasthan,Chemical & Industrial Industry,16.0,45.0,977.0,369.0,1.64,12.2
+ID-00289,rajasthan,Civil & Infrastructure Industry,3.0,22.0,977.0,369.0,0.31,5.96
+ID-00290,rajasthan,Commercial & Supply Chain Industry,5.0,49.0,977.0,369.0,0.51,13.28
+ID-00291,rajasthan,"Community, Personal & Social Services",656.0,59.0,977.0,369.0,67.14,15.99
+ID-00292,rajasthan,Engineering Industry,89.0,93.0,977.0,369.0,9.11,25.2
+ID-00293,rajasthan,General Services Sector,13.0,11.0,977.0,369.0,1.33,2.98
+ID-00294,rajasthan,Hotel Management,61.0,18.0,977.0,369.0,6.24,4.88
+ID-00295,rajasthan,Medical & Pharmaceutical Industry,74.0,12.0,977.0,369.0,7.57,3.25
+ID-00296,rajasthan,Sports & Health Industry,21.0,24.0,977.0,369.0,2.15,6.5
+ID-00297,rajasthan,Tourism & Hospitality Industry,4.0,2.0,977.0,369.0,0.41,0.54
+ID-00298,sikkim,Agricultural Industry,0.0,0.0,11.0,0.0,0.0,
+ID-00299,sikkim,Chemical & Industrial Industry,1.0,0.0,11.0,0.0,9.09,
+ID-00300,sikkim,Civil & Infrastructure Industry,0.0,0.0,11.0,0.0,0.0,
+ID-00301,sikkim,Commercial & Supply Chain Industry,0.0,0.0,11.0,0.0,0.0,
+ID-00302,sikkim,"Community, Personal & Social Services",4.0,0.0,11.0,0.0,36.36,
+ID-00303,sikkim,Engineering Industry,3.0,0.0,11.0,0.0,27.27,
+ID-00304,sikkim,General Services Sector,1.0,0.0,11.0,0.0,9.09,
+ID-00305,sikkim,Hotel Management,0.0,0.0,11.0,0.0,0.0,
+ID-00306,sikkim,Medical & Pharmaceutical Industry,2.0,0.0,11.0,0.0,18.18,
+ID-00307,sikkim,Sports & Health Industry,0.0,0.0,11.0,0.0,0.0,
+ID-00308,sikkim,Tourism & Hospitality Industry,0.0,0.0,11.0,0.0,0.0,
+ID-00309,tamil nadu,Agricultural Industry,59.0,52.0,1067.0,773.0,5.53,6.73
+ID-00310,tamil nadu,Chemical & Industrial Industry,13.0,51.0,1067.0,773.0,1.22,6.6
+ID-00311,tamil nadu,Civil & Infrastructure Industry,47.0,41.0,1067.0,773.0,4.4,5.3
+ID-00312,tamil nadu,Commercial & Supply Chain Industry,1.0,138.0,1067.0,773.0,0.09,17.85
+ID-00313,tamil nadu,"Community, Personal & Social Services",353.0,95.0,1067.0,773.0,33.08,12.29
+ID-00314,tamil nadu,Engineering Industry,462.0,255.0,1067.0,773.0,43.3,32.99
+ID-00315,tamil nadu,General Services Sector,35.0,19.0,1067.0,773.0,3.28,2.46
+ID-00316,tamil nadu,Hotel Management,15.0,23.0,1067.0,773.0,1.41,2.98
+ID-00317,tamil nadu,Medical & Pharmaceutical Industry,56.0,53.0,1067.0,773.0,5.25,6.86
+ID-00318,tamil nadu,Sports & Health Industry,26.0,45.0,1067.0,773.0,2.44,5.82
+ID-00319,tamil nadu,Tourism & Hospitality Industry,0.0,1.0,1067.0,773.0,0.0,0.13
+ID-00320,telangana,Agricultural Industry,0.0,37.0,463.0,811.0,0.0,4.56
+ID-00321,telangana,Chemical & Industrial Industry,4.0,47.0,463.0,811.0,0.86,5.8
+ID-00322,telangana,Civil & Infrastructure Industry,10.0,73.0,463.0,811.0,2.16,9.0
+ID-00323,telangana,Commercial & Supply Chain Industry,15.0,88.0,463.0,811.0,3.24,10.85
+ID-00324,telangana,"Community, Personal & Social Services",113.0,100.0,463.0,811.0,24.41,12.33
+ID-00325,telangana,Engineering Industry,186.0,329.0,463.0,811.0,40.17,40.57
+ID-00326,telangana,General Services Sector,5.0,49.0,463.0,811.0,1.08,6.04
+ID-00327,telangana,Hotel Management,16.0,22.0,463.0,811.0,3.46,2.71
+ID-00328,telangana,Medical & Pharmaceutical Industry,84.0,31.0,463.0,811.0,18.14,3.82
+ID-00329,telangana,Sports & Health Industry,1.0,35.0,463.0,811.0,0.22,4.32
+ID-00330,telangana,Tourism & Hospitality Industry,29.0,0.0,463.0,811.0,6.26,0.0
+ID-00331,the dadra & nagar haveli and daman & diu,Agricultural Industry,0.0,0.0,9.0,0.0,0.0,
+ID-00332,the dadra & nagar haveli and daman & diu,Chemical & Industrial Industry,0.0,0.0,9.0,0.0,0.0,
+ID-00333,the dadra & nagar haveli and daman & diu,Civil & Infrastructure Industry,0.0,0.0,9.0,0.0,0.0,
+ID-00334,the dadra & nagar haveli and daman & diu,Commercial & Supply Chain Industry,0.0,0.0,9.0,0.0,0.0,
+ID-00335,the dadra & nagar haveli and daman & diu,"Community, Personal & Social Services",2.0,0.0,9.0,0.0,22.22,
+ID-00336,the dadra & nagar haveli and daman & diu,Engineering Industry,5.0,0.0,9.0,0.0,55.56,
+ID-00337,the dadra & nagar haveli and daman & diu,General Services Sector,1.0,0.0,9.0,0.0,11.11,
+ID-00338,the dadra & nagar haveli and daman & diu,Hotel Management,0.0,0.0,9.0,0.0,0.0,
+ID-00339,the dadra & nagar haveli and daman & diu,Medical & Pharmaceutical Industry,1.0,0.0,9.0,0.0,11.11,
+ID-00340,the dadra & nagar haveli and daman & diu,Sports & Health Industry,0.0,0.0,9.0,0.0,0.0,
+ID-00341,the dadra & nagar haveli and daman & diu,Tourism & Hospitality Industry,0.0,0.0,9.0,0.0,0.0,
+ID-00342,tripura,Agricultural Industry,3.0,2.0,20.0,8.0,15.0,25.0
+ID-00343,tripura,Chemical & Industrial Industry,0.0,2.0,20.0,8.0,0.0,25.0
+ID-00344,tripura,Civil & Infrastructure Industry,1.0,1.0,20.0,8.0,5.0,12.5
+ID-00345,tripura,Commercial & Supply Chain Industry,0.0,0.0,20.0,8.0,0.0,0.0
+ID-00346,tripura,"Community, Personal & Social Services",3.0,2.0,20.0,8.0,15.0,25.0
+ID-00347,tripura,Engineering Industry,7.0,1.0,20.0,8.0,35.0,12.5
+ID-00348,tripura,General Services Sector,2.0,0.0,20.0,8.0,10.0,0.0
+ID-00349,tripura,Hotel Management,1.0,0.0,20.0,8.0,5.0,0.0
+ID-00350,tripura,Medical & Pharmaceutical Industry,2.0,0.0,20.0,8.0,10.0,0.0
+ID-00351,tripura,Sports & Health Industry,1.0,0.0,20.0,8.0,5.0,0.0
+ID-00352,tripura,Tourism & Hospitality Industry,0.0,0.0,20.0,8.0,0.0,0.0
+ID-00353,uttar pradesh,Agricultural Industry,13.0,114.0,1628.0,1140.0,0.8,10.0
+ID-00354,uttar pradesh,Chemical & Industrial Industry,27.0,85.0,1628.0,1140.0,1.66,7.46
+ID-00355,uttar pradesh,Civil & Infrastructure Industry,18.0,82.0,1628.0,1140.0,1.11,7.19
+ID-00356,uttar pradesh,Commercial & Supply Chain Industry,6.0,146.0,1628.0,1140.0,0.37,12.81
+ID-00357,uttar pradesh,"Community, Personal & Social Services",957.0,151.0,1628.0,1140.0,58.78,13.25
+ID-00358,uttar pradesh,Engineering Industry,198.0,314.0,1628.0,1140.0,12.16,27.54
+ID-00359,uttar pradesh,General Services Sector,14.0,92.0,1628.0,1140.0,0.86,8.07
+ID-00360,uttar pradesh,Hotel Management,243.0,35.0,1628.0,1140.0,14.93,3.07
+ID-00361,uttar pradesh,Medical & Pharmaceutical Industry,143.0,53.0,1628.0,1140.0,8.78,4.65
+ID-00362,uttar pradesh,Sports & Health Industry,4.0,64.0,1628.0,1140.0,0.25,5.61
+ID-00363,uttar pradesh,Tourism & Hospitality Industry,5.0,4.0,1628.0,1140.0,0.31,0.35
+ID-00364,uttarakhand,Agricultural Industry,8.0,4.0,122.0,88.0,6.56,4.55
+ID-00365,uttarakhand,Chemical & Industrial Industry,2.0,11.0,122.0,88.0,1.64,12.5
+ID-00366,uttarakhand,Civil & Infrastructure Industry,1.0,7.0,122.0,88.0,0.82,7.95
+ID-00367,uttarakhand,Commercial & Supply Chain Industry,0.0,15.0,122.0,88.0,0.0,17.05
+ID-00368,uttarakhand,"Community, Personal & Social Services",51.0,14.0,122.0,88.0,41.8,15.91
+ID-00369,uttarakhand,Engineering Industry,31.0,18.0,122.0,88.0,25.41,20.45
+ID-00370,uttarakhand,General Services Sector,0.0,2.0,122.0,88.0,0.0,2.27
+ID-00371,uttarakhand,Hotel Management,10.0,4.0,122.0,88.0,8.2,4.55
+ID-00372,uttarakhand,Medical & Pharmaceutical Industry,13.0,4.0,122.0,88.0,10.66,4.55
+ID-00373,uttarakhand,Sports & Health Industry,3.0,7.0,122.0,88.0,2.46,7.95
+ID-00374,uttarakhand,Tourism & Hospitality Industry,3.0,2.0,122.0,88.0,2.46,2.27
+ID-00375,west bengal,Agricultural Industry,1.0,33.0,552.0,559.0,0.18,5.9
+ID-00376,west bengal,Chemical & Industrial Industry,2.0,44.0,552.0,559.0,0.36,7.87
+ID-00377,west bengal,Civil & Infrastructure Industry,2.0,41.0,552.0,559.0,0.36,7.33
+ID-00378,west bengal,Commercial & Supply Chain Industry,2.0,110.0,552.0,559.0,0.36,19.68
+ID-00379,west bengal,"Community, Personal & Social Services",403.0,105.0,552.0,559.0,73.01,18.78
+ID-00380,west bengal,Engineering Industry,78.0,146.0,552.0,559.0,14.13,26.12
+ID-00381,west bengal,General Services Sector,13.0,18.0,552.0,559.0,2.36,3.22
+ID-00382,west bengal,Hotel Management,29.0,22.0,552.0,559.0,5.25,3.94
+ID-00383,west bengal,Medical & Pharmaceutical Industry,15.0,20.0,552.0,559.0,2.72,3.58
+ID-00384,west bengal,Sports & Health Industry,2.0,18.0,552.0,559.0,0.36,3.22
+ID-00385,west bengal,Tourism & Hospitality Industry,5.0,2.0,552.0,559.0,0.91,0.36
